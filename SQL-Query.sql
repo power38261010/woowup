@@ -4,7 +4,7 @@
 --Ventas: Fecha, Sucursal, Numero_factura, Importe, Id_cliente
 
 SELECT c.ID , c.Nombre, c.Apellido, 
-SUM ( CASE WHEN v.Fecha BETWEEN DATEADD( month, -12, GETDATE() ) AND GETDATE() THEN v.Importe  ELSE 0 END) AS Total
+SUM ( CASE WHEN v.Fecha BETWEEN DATEADD( month, -12, GETDATE() ) AND GETDATE() THEN v.Importe  ELSE 0 END) AS [Total]
 FROM Clientes c
 INNER JOIN Ventas v 
 ON c.ID = v.Id_cliente
