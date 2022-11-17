@@ -9,4 +9,4 @@
 
 - ¿Qué feature de WoowUp te gustó mucho? ¿Por qué?
 
-- Me gustó mucho el sistema de fidelización, ya que dentro de tantas herramientas es una de las más eficaces a la hora de satisfacer las necesidades del cliente, ya que considero que posee un gran futuro en cuanto al posicionamiento de su marca.
+- Me gustó mucho el sistema de fidelización, ya que dentro de tantas herramientas es una de las más eficaces a la hora de satisfacer las necesidades del cliente, y considero que posee un gran futuro en cuanto al posicionamiento de su marca.
